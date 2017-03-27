@@ -1,0 +1,7 @@
+Apache Spark contains these 4 main core modules:
+SparkSQL
+Spark Streaming
+MLlib
+GraphX
+
+see more: https://www.toptal.com/spark/introduction-to-apache-spark
